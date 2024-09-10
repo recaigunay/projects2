@@ -1,0 +1,763 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Pages
+/Count 4
+/Kids [ 3 0 R 4 0 R 5 0 R 6 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+/NeedAppearances true
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.3
+>>
+>>
+/Font <<
+/F1 8 0 R
+/F2 9 0 R
+/F18753fe17-5204-45e0-afcd-575d19f52650 <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+>>
+/ProcSet [ /ImageI /ImageB /ImageC /Text /PDF ]
+>>
+/Contents 10 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Annots [ ]
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.3
+>>
+>>
+/Font <<
+/F1 8 0 R
+/F2 9 0 R
+/F1edb54c8b-e433-45b5-ad2e-28e4cd6adb9a <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+>>
+/ProcSet [ /ImageI /ImageB /ImageC /Text /PDF ]
+>>
+/Contents 11 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Annots [ ]
+>>
+endobj
+5 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.3
+>>
+>>
+/Font <<
+/F1 8 0 R
+/F2 9 0 R
+/F18942b0e6-9273-48b5-b7d2-d8f9cbca10a8 <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+>>
+/ProcSet [ /ImageI /ImageB /ImageC /Text /PDF ]
+>>
+/Contents 12 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Annots [ ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.3
+>>
+>>
+/Font <<
+/F1 8 0 R
+/F2 9 0 R
+/F1b3910d01-d1b4-48ef-9c00-96e67deef069 <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+>>
+/ProcSet [ /ImageI /ImageB /ImageC /Text /PDF ]
+>>
+/Contents 13 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Annots [ ]
+>>
+endobj
+7 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/AcroForm 2 0 R
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<<
+/Length 2467
+>>
+stream
+q
+2 J
+0.57 w
+BT
+/F1 16 Tf
+ET
+BT
+196.29 794.57 Td
+(AI\040Training\040Course\040Outline) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.19 738.47 Td
+(1\056\040Introduction\040to\040AI) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+31.19 696.55 Td
+(\055\040What\040is\040AI\077) Tj
+ET
+BT
+31.19 668.21 Td
+(\040\040\055\040Definition\040and\040history) Tj
+ET
+BT
+31.19 639.86 Td
+(\040\040\055\040AI\040vs\056\040Machine\040Learning\040vs\056\040Deep\040Learning) Tj
+ET
+BT
+31.19 611.51 Td
+(\055\040Applications\040of\040AI) Tj
+ET
+BT
+31.19 583.17 Td
+(\040\040\055\040AI\040in\040everyday\040life\040\050e\056g\056\054\040virtual\040assistants\054\040recommendation\040systems\051) Tj
+ET
+BT
+31.19 554.82 Td
+(\040\040\055\040Industry\055specific\040applications\040\050e\056g\056\054\040healthcare\054\040finance\054\040robotics\051) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.19 525.88 Td
+(2\056\040Machine\040Learning\040Basics) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+31.19 483.96 Td
+(\055\040Supervised\040Learning) Tj
+ET
+BT
+31.19 455.61 Td
+(\040\040\055\040Definition\040and\040examples) Tj
+ET
+BT
+31.19 427.26 Td
+(\040\040\055\040Key\040algorithms\072\040Linear\040Regression\054\040Logistic\040Regression\054\040Decision\040Trees\054\040Random\040Forest) Tj
+ET
+BT
+31.19 398.92 Td
+(\055\040Unsupervised\040Learning) Tj
+ET
+BT
+31.19 370.57 Td
+(\040\040\055\040Clustering\040and\040dimensionality\040reduction) Tj
+ET
+BT
+31.19 342.22 Td
+(\040\040\055\040Key\040algorithms\072\040K\055Means\054\040PCA) Tj
+ET
+BT
+31.19 313.88 Td
+(\055\040Reinforcement\040Learning) Tj
+ET
+BT
+31.19 285.53 Td
+(\040\040\055\040Basic\040concepts\040and\040real\055world\040applications) Tj
+ET
+BT
+31.19 257.18 Td
+(\040\040\055\040Key\040algorithms\072\040Q\055Learning\054\040Deep\040Q\040Networks) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.19 228.24 Td
+(3\056\040Data\040Handling\040and\040Preprocessing) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+31.19 186.32 Td
+(\055\040Data\040Collection) Tj
+ET
+BT
+31.19 157.97 Td
+(\040\040\055\040Sources\040of\040data) Tj
+ET
+BT
+31.19 129.63 Td
+(\040\040\055\040Data\040privacy\040and\040ethics) Tj
+ET
+BT
+31.19 101.28 Td
+(\055\040Data\040Cleaning) Tj
+ET
+BT
+31.19 72.93 Td
+(\040\040\055\040Handling\040missing\040values\054\040outliers\054\040and\040duplicates) Tj
+ET
+Q
+q
+0 0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F18753fe17-5204-45e0-afcd-575d19f52650 12 Tf
+14.4 TL
+ET
+BT
+/F18753fe17-5204-45e0-afcd-575d19f52650 40 Tf
+48 TL
+ET
+0.8 0.8 0.8 rg
+/gRLs0 gs
+q
+0.70711 0.70711 -0.70711 0.70711 300 500 cm
+BT
+1 0 0 1 -300.02 0 Tm
+(FRENCHGATE\040SOFTWARE\040LTD) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+11 0 obj
+<<
+/Length 2440
+>>
+stream
+q
+2 J
+0.57 w
+BT
+/F2 12 Tf
+ET
+BT
+31.19 795.77 Td
+(\055\040Feature\040Engineering) Tj
+ET
+BT
+31.19 767.42 Td
+(\040\040\055\040Feature\040selection\040and\040extraction) Tj
+ET
+BT
+31.19 739.07 Td
+(\055\040Data\040Splitting) Tj
+ET
+BT
+31.19 710.73 Td
+(\040\040\055\040Training\054\040validation\054\040and\040test\040sets) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.19 681.78 Td
+(4\056\040Deep\040Learning) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+31.19 639.86 Td
+(\055\040Neural\040Networks) Tj
+ET
+BT
+31.19 611.51 Td
+(\040\040\055\040Introduction\040to\040neurons\040and\040layers) Tj
+ET
+BT
+31.19 583.17 Td
+(\040\040\055\040Activation\040functions) Tj
+ET
+BT
+31.19 554.82 Td
+(\055\040Deep\040Learning\040Architectures) Tj
+ET
+BT
+31.19 526.48 Td
+(\040\040\055\040Convolutional\040Neural\040Networks\040\050CNNs\051\040for\040image\040processing) Tj
+ET
+BT
+31.19 498.13 Td
+(\040\040\055\040Recurrent\040Neural\040Networks\040\050RNNs\051\040for\040sequential\040data) Tj
+ET
+BT
+31.19 469.78 Td
+(\040\040\055\040Generative\040Adversarial\040Networks\040\050GANs\051) Tj
+ET
+BT
+31.19 441.44 Td
+(\055\040Training\040Deep\040Learning\040Models) Tj
+ET
+BT
+31.19 413.09 Td
+(\040\040\055\040Backpropagation\040and\040gradient\040descent) Tj
+ET
+BT
+31.19 384.74 Td
+(\040\040\055\040Overfitting\040and\040regularization) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.19 355.8 Td
+(5\056\040Natural\040Language\040Processing\040\050NLP\051) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+31.19 313.88 Td
+(\055\040Text\040Preprocessing) Tj
+ET
+BT
+31.19 285.53 Td
+(\040\040\055\040Tokenization\054\040stemming\054\040lemmatization) Tj
+ET
+BT
+31.19 257.18 Td
+(\055\040Language\040Models) Tj
+ET
+BT
+31.19 228.84 Td
+(\040\040\055\040N\055grams\054\040Bag\040of\040Words\054\040TF\055IDF) Tj
+ET
+BT
+31.19 200.49 Td
+(\040\040\055\040Transformer\040models\040\050e\056g\056\054\040BERT\054\040GPT\051) Tj
+ET
+BT
+31.19 172.14 Td
+(\055\040Applications\040of\040NLP) Tj
+ET
+BT
+31.19 143.8 Td
+(\040\040\055\040Sentiment\040analysis\054\040text\040classification\054\040machine\040translation) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.19 114.85 Td
+(6\056\040AI\040Tools\040and\040Frameworks) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+31.19 72.93 Td
+(\055\040Programming\040Languages) Tj
+ET
+Q
+q
+0 0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1edb54c8b-e433-45b5-ad2e-28e4cd6adb9a 12 Tf
+14.4 TL
+ET
+BT
+/F1edb54c8b-e433-45b5-ad2e-28e4cd6adb9a 40 Tf
+48 TL
+ET
+0.8 0.8 0.8 rg
+/gRLs0 gs
+q
+0.70711 0.70711 -0.70711 0.70711 300 500 cm
+BT
+1 0 0 1 -300.02 0 Tm
+(FRENCHGATE\040SOFTWARE\040LTD) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+12 0 obj
+<<
+/Length 2403
+>>
+stream
+q
+2 J
+0.57 w
+BT
+/F2 12 Tf
+ET
+BT
+31.19 795.77 Td
+(\040\040\055\040Python\054\040R\054\040etc\056) Tj
+ET
+BT
+31.19 767.42 Td
+(\055\040Machine\040Learning\040Libraries) Tj
+ET
+BT
+31.19 739.07 Td
+(\040\040\055\040Scikit\055Learn\054\040TensorFlow\054\040PyTorch\054\040Keras) Tj
+ET
+BT
+31.19 710.73 Td
+(\055\040Development\040Environments) Tj
+ET
+BT
+31.19 682.38 Td
+(\040\040\055\040Jupyter\040Notebook\054\040Google\040Colab\054\040Anaconda) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.19 653.43 Td
+(7\056\040AI\040Project\040Lifecycle) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+31.19 611.51 Td
+(\055\040Problem\040Definition) Tj
+ET
+BT
+31.19 583.17 Td
+(\040\040\055\040Understanding\040the\040problem\040and\040setting\040objectives) Tj
+ET
+BT
+31.19 554.82 Td
+(\055\040Data\040Collection\040and\040Preparation) Tj
+ET
+BT
+31.19 526.48 Td
+(\055\040Model\040Selection\040and\040Training) Tj
+ET
+BT
+31.19 498.13 Td
+(\055\040Model\040Evaluation) Tj
+ET
+BT
+31.19 469.78 Td
+(\040\040\055\040Metrics\072\040accuracy\054\040precision\054\040recall\054\040F1\040score) Tj
+ET
+BT
+31.19 441.44 Td
+(\055\040Deployment\040and\040Monitoring) Tj
+ET
+BT
+31.19 413.09 Td
+(\040\040\055\040Model\040deployment\040strategies) Tj
+ET
+BT
+31.19 384.74 Td
+(\040\040\055\040Model\040maintenance\040and\040updates) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.19 355.8 Td
+(8\056\040Ethical\040and\040Social\040Implications\040of\040AI) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+31.19 313.88 Td
+(\055\040Bias\040in\040AI) Tj
+ET
+BT
+31.19 285.53 Td
+(\040\040\055\040Understanding\040and\040mitigating\040bias) Tj
+ET
+BT
+31.19 257.18 Td
+(\055\040Privacy\040Concerns) Tj
+ET
+BT
+31.19 228.84 Td
+(\040\040\055\040Data\040privacy\040laws\040and\040regulations) Tj
+ET
+BT
+31.19 200.49 Td
+(\055\040AI\040and\040Society) Tj
+ET
+BT
+31.19 172.14 Td
+(\040\040\055\040Impact\040on\040jobs\054\040economy\054\040and\040social\040structures) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.19 143.2 Td
+(9\056\040Hands\055On\040Projects) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+31.19 101.28 Td
+(\055\040Project\0401\072\040Predictive\040Modeling) Tj
+ET
+BT
+31.19 72.93 Td
+(\040\040\055\040E\056g\056\054\040Building\040a\040model\040to\040predict\040house\040prices) Tj
+ET
+Q
+q
+0 0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F18942b0e6-9273-48b5-b7d2-d8f9cbca10a8 12 Tf
+14.4 TL
+ET
+BT
+/F18942b0e6-9273-48b5-b7d2-d8f9cbca10a8 40 Tf
+48 TL
+ET
+0.8 0.8 0.8 rg
+/gRLs0 gs
+q
+0.70711 0.70711 -0.70711 0.70711 300 500 cm
+BT
+1 0 0 1 -300.02 0 Tm
+(FRENCHGATE\040SOFTWARE\040LTD) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+13 0 obj
+<<
+/Length 1638
+>>
+stream
+q
+2 J
+0.57 w
+BT
+/F2 12 Tf
+ET
+BT
+31.19 795.77 Td
+(\055\040Project\0402\072\040Image\040Classification) Tj
+ET
+BT
+31.19 767.42 Td
+(\040\040\055\040E\056g\056\054\040Building\040a\040CNN\040to\040classify\040images) Tj
+ET
+BT
+31.19 739.07 Td
+(\055\040Project\0403\072\040Text\040Analysis) Tj
+ET
+BT
+31.19 710.73 Td
+(\040\040\055\040E\056g\056\054\040Sentiment\040analysis\040on\040social\040media\040data) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.19 681.78 Td
+(10\056\040Advanced\040Topics\040\050Optional\051) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+31.19 639.86 Td
+(\055\040AI\040in\040IoT) Tj
+ET
+BT
+31.19 611.51 Td
+(\055\040AI\040in\040Cloud\040Computing) Tj
+ET
+BT
+31.19 583.17 Td
+(\055\040Quantum\040Computing\040and\040AI) Tj
+ET
+BT
+31.19 554.82 Td
+(\055\040Explainable\040AI\040\050XAI\051) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.19 525.88 Td
+(11\056\040Resources\040and\040Further\040Learning) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+31.19 483.96 Td
+(\055\040Books\054\040Courses\054\040and\040Certifications) Tj
+ET
+BT
+31.19 455.61 Td
+(\055\040Online\040Communities\040and\040Forums) Tj
+ET
+BT
+31.19 427.26 Td
+(\055\040Research\040Papers\040and\040Journals) Tj
+ET
+BT
+/F1 14 Tf
+ET
+BT
+31.19 398.32 Td
+(12\056\040Q\046A\040and\040Final\040Review) Tj
+ET
+BT
+/F2 12 Tf
+ET
+BT
+31.19 356.4 Td
+(\055\040Recap\040of\040key\040concepts) Tj
+ET
+BT
+31.19 328.05 Td
+(\055\040Addressing\040any\040questions) Tj
+ET
+Q
+q
+0 0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1b3910d01-d1b4-48ef-9c00-96e67deef069 12 Tf
+14.4 TL
+ET
+BT
+/F1b3910d01-d1b4-48ef-9c00-96e67deef069 40 Tf
+48 TL
+ET
+0.8 0.8 0.8 rg
+/gRLs0 gs
+q
+0.70711 0.70711 -0.70711 0.70711 300 500 cm
+BT
+1 0 0 1 -300.02 0 Tm
+(FRENCHGATE\040SOFTWARE\040LTD) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000092 00000 n 
+0000000154 00000 n 
+0000000529 00000 n 
+0000000904 00000 n 
+0000001279 00000 n 
+0000001654 00000 n 
+0000001719 00000 n 
+0000001821 00000 n 
+0000001918 00000 n 
+0000004438 00000 n 
+0000006931 00000 n 
+0000009387 00000 n 
+trailer
+<<
+/Size 14
+/Root 7 0 R
+/Info 2 0 R
+>>
+startxref
+11078
+%%EOF
